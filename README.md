@@ -17,6 +17,8 @@ Previews
 ![Black Metal Scheme - Mayhem Variant](images/base16-black-metal-mayhem.png "Black metal scheme - Mayhem Variant")
 ![Black Metal Scheme - Nile Variant](images/base16-black-metal-nile.png "Black metal scheme - Nile Variant")
 ![Black Metal Scheme - Venom Variant](images/base16-black-metal-venom-2.png "Black metal scheme - Venom Variant")
+![Blackgaze - Alcest Variant](images/base16-blackgaze-alcest.png "Blackgaze - Alcest Variant")
+![Blackgaze - Deafheaven Variant](images/base16-blackgaze-deafheaven.png "Blackgaze - Deafheaven Variant")
 
 Howto
 ---
@@ -34,14 +36,19 @@ If you want to build the full collection (terminal schemes, sublime, atom and so
 Light variants
 ---
 
-You're joking, aren't you?
+SACRILEGE. I added two of them, both under the `blackgaze` prefix:
+
+* **Blackgaze (Alcest)** — hushed teal and weathered taupe drifting across a pale, washed-out dawn; quiet, luminous, half-remembered. Ships as `blackgaze-alcest.yaml` / `colors/base16-blackgaze-alcest.vim`.
+* **Blackgaze (Deafheaven)** — dusty rose bleeding into scorched brown under a white, sun-bleached glare; warm, blinding, euphoric. Ships as `blackgaze-deafheaven.yaml` / `colors/base16-blackgaze-deafheaven.vim`.
 
 Cover references
 ---
 
+* Alcest: Shelter
 * Bathory: Hammerheart
 * Burzum: Filosofem
 * Dark Funeral: The secrets of the black arts
+* Deafheaven: Sunbather
 * Gorgoroth: Twilight of the idols
 * Immortal: At the heart of winter
 * Khold: Phantom
